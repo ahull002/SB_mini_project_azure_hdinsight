@@ -17,7 +17,8 @@ Apache Spark is an open-source parallel-processing platform that excels at runni
 
 In this mini-project, I will use Apache Spark for Azure HDInsight. After provisioning a Spark cluster, I will use the Microsoft Azure Storage Explorer to add a Jupyter Notebook to the cluster. I will then use the notebook to explore and analyze Walmart stock data. 
 
-The goal is to experience creating and utilizing Spark clusters, provisioning them with Azure, and getting a working overview to Spark data analytics.
+__Goal:__
+The goal here is to experience creating and utilizing Spark clusters, provisioning them with Azure, and getting a working overview to Spark data analytics.
 
 __Exercises:__
 * Exercise 1: Create a Spark Cluster on HDInsight
