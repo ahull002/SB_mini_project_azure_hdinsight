@@ -21,6 +21,12 @@ In this mini-project, I will use Apache Spark for Azure HDInsight. After provisi
 ## Goal:
 The goal here is to experience creating and utilizing Spark clusters, provisioning them with Azure, and getting a working overview to Spark data analytics.
 
+__In this mini-project, I will demonstrate competency in:__
+* Deploying an HDInsight Spark cluster
+* Working with content stored in Azure Blob Storage and accessed by the Spark cluster as an HDFS volume
+* Using a Jupyter Notebook to interactively explore a large dataset
+* Deleting a Spark cluster to avoid incurring unnecessary charges
+
 __Exercises:__
 * Exercise 1: Create a Spark Cluster on HDInsight
 * Exercise 2: Upload Jupyter Notebook to the cluster
